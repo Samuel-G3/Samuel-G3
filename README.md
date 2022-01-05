@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://i.ibb.co/bsznJhm/footer.webp">
+ <img src="https://i.ibb.co/SVNdKxt/white-rabbit-matrix.gif">
 
- #
-![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=90&fontColor=69aa06&text=Hi%20there!%20👋%20I'm%20Samuel&fontSize=40)
  
-![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=60&fontColor=69aa06&text=%20I’m%20passionate%20about%20learning%20new%20things.%20&fontSize=25)
+![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=90&fontColor=9ce941&text=Hi%20there!%20👋%20I'm%20Samuel&fontSize=40)
+ 
+![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=60&fontColor=9ce941&text=%20I’m%20passionate%20about%20learning%20new%20things.%20&fontSize=25)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=60&fontColor=69aa06&text=%20I%20love%20Software%20and%20Personal%20development.%20&fontSize=25)
+![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=60&fontColor=9ce941&text=%20I%20love%20Software%20and%20Personal%20development.%20&fontSize=25)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=60&fontColor=69aa06&text=%20I’m%20currently%20learning%20Coding!%20&fontSize=25)
+![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=60&fontColor=9ce941&text=%20I’m%20currently%20learning%20Coding!%20&fontSize=25)
 #
 
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=plastic&logo=mysql&logoColor=white&color=green)
@@ -25,10 +25,12 @@
 ![](https://img.shields.io/badge/Code-css3-informational?style=plastic&logo=css3&logoColor=yellow&color=green)
  
  
-<img src="https://i.ibb.co/SVNdKxt/white-rabbit-matrix.gif">
-<br>
-<br>
-<a href="https://twitter.com/SG_359" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/samuel-garcía-716747224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
  
+<br>
+     <a href="https://twitter.com/SG_359" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/samuel-garcía-716747224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<br>
+ <br>
+ 
+<br> <img src="https://i.ibb.co/bsznJhm/footer.webp">
 </div>
