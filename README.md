@@ -1,6 +1,5 @@
 <div align="center">
- <br> <img src="https://i.ibb.co/bsznJhm/footer.webp">
-  <br>
+
  
  
 #
