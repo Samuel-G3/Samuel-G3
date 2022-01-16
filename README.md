@@ -25,15 +25,22 @@
 ![](https://img.shields.io/badge/Code-git-informational?style=plastic&logo=git&logoColor=yellow&color=green)
 ![](https://img.shields.io/badge/Code-css3-informational?style=plastic&logo=css3&logoColor=yellow&color=green)
  
-  <br>
+ 
+ 
+ 
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Samuel-G3&show_icons=true&theme=merko&hide=prs,issues,contribs" alt="Samuel-G3" />
+
+   <br>
   <img src="https://i.ibb.co/SVNdKxt/white-rabbit-matrix.gif">
 <br>
   <br>
  
- <a href="https://twitter.com/SG_359" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/samuel-garcía-716747224/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/SG_359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samuel-garcía-716747224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <br>
- <br>
- 
- 
+<br>
+ ![](https://komarev.com/ghpvc/?username=Samuel-G3&color=green) 
 </div>
+
+
+ 
