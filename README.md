@@ -5,7 +5,7 @@
   </h1>
 
   <p>
-    <span style="color: #9ce941;">Apasionado por la intersección de la Ciberseguridad, el Derecho y el Desarrollo de Software.</span>
+    <span style="color: #9ce941;">Apasionado por la Ciberseguridad, el Derecho y el Desarrollo de Software.</span>
   </p>
 
   <a href="https://linkedin.com/in/samuel-garcía-iñesta/" target="_blank">
