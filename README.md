@@ -3,13 +3,8 @@
  
  
 #
-![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=90&fontColor=9ce941&text=Hi%20there!%20👋%20I'm%20Samuel&fontSize=40)
- 
-![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=60&fontColor=9ce941&text=%20I’m%20passionate%20about%20learning%20new%20things.%20&fontSize=25)
+![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=90&fontColor=9ce941&text=Abogado%20|%20Developer%20|%20Ciberseguridad&fontSize=40)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=60&fontColor=9ce941&text=%20I%20love%20Software%20and%20Personal%20development.%20&fontSize=25)
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode&height=60&fontColor=9ce941&text=%20I’m%20currently%20working%20as%20junior%20developer%20&fontSize=25)
 #
 
 
